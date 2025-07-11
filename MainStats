@@ -517,26 +517,26 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 20,
-                "Cooldown": 0.05
+                "Damage": 200,
+                "Cooldown": 0.2
             },
             {
                 "Price": 25000,
                 "Range": 14,
-                "Damage": 24,
-                "Cooldown": 0.05
+                "Damage": 240,
+                "Cooldown": 0.18
             },
             {
                 "Price": 30000,
                 "Range": 16,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Damage": 300,
+                "Cooldown": 0.2
             },
             {
                 "Price": 50000,
                 "Range": 18,
-                "Damage": 36,
-                "Cooldown": 0.05
+                "Damage": 360,
+                "Cooldown": 0.15
             }
         ]
     },
@@ -791,10 +791,10 @@
         ]
     },
     "Plane Boy": {
-        "Type": "AOE + DAMAGE BOOST",
+        "Type": "AOE",
         "Image": "rbxassetid://17689713814",
-        "Rarity": "Secret",
-        "PlacePrice": 20000,
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
         "Offset": 2,
         "Max": 2,
         "hitboxOffset": {
@@ -806,25 +806,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 35,
+                "Damage": 305,
                 "Cooldown": 0.05
             },
             {
-                "Price": 30000,
+                "Price": 3000,
                 "Range": 30,
-                "Damage": 45,
+                "Damage": 450,
                 "Cooldown": 0.05
             },
             {
-                "Price": 40000,
+                "Price": 4000,
                 "Range": 35,
-                "Damage": 60,
+                "Damage": 600,
                 "Cooldown": 0.05
             },
             {
-                "Price": 50000,
+                "Price": 5000,
                 "Range": 40,
-                "Damage": 65,
+                "Damage": 650,
                 "Cooldown": 0.05
             }
         ]
