@@ -2340,9 +2340,9 @@
     "Cupcake Tank": {
         "Type": "Summoner",
         "Image": "rbxassetid://18673630095",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 2000,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2355,8 +2355,8 @@
                 "Range": 8,
                 "Damage": 100,
                 "Cooldown": 5,
-                "SummonTime": 40,
-                "Health": 100,
+                "SummonTime": 5,
+                "Health": 1000,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2366,8 +2366,8 @@
                 "Range": 10,
                 "Damage": 150,
                 "Cooldown": 4,
-                "SummonTime": 38,
-                "Health": 50,
+                "SummonTime": 15,
+                "Health": 5000,
                 "WalkSpeed": 11,
                 "Unit": "TankCake",
                 "Offset": -1.5
@@ -2377,9 +2377,9 @@
                 "Range": 12,
                 "Damage": 200,
                 "Cooldown": 2,
-                "SummonTime": 37,
-                "Health": 250,
-                "WalkSpeed": 11,
+                "SummonTime": 25,
+                "Health": 7500,
+                "WalkSpeed": 41,
                 "Unit": "TankCake",
                 "Offset": -1.5
             },
@@ -2388,9 +2388,9 @@
                 "Range": 14,
                 "Damage": 250,
                 "Cooldown": 1,
-                "SummonTime": 36,
-                "Health": 400,
-                "WalkSpeed": 11,
+                "SummonTime": 30,
+                "Health": 15000,
+                "WalkSpeed": 25,
                 "Unit": "TankCake",
                 "Offset": -1.5
             }
