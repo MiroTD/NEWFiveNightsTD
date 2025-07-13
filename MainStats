@@ -752,10 +752,10 @@
         ]
     },
     "Endo 02": {
-        "Type": " Cone AOE",
+        "Type": " AOE",
         "Image": "rbxassetid://17690383931",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
+        "Rarity": "Nightmare",
+        "PlacePrice": 10,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -767,25 +767,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 30,
+                "Damage": 300000000000,
                 "Cooldown": 0.05
             },
             {
                 "Price": 1200,
                 "Range": 18,
-                "Damage": 35,
+                "Damage": 35000000000,
                 "Cooldown": 0.05
             },
             {
                 "Price": 1600,
                 "Range": 22,
-                "Damage": 45,
+                "Damage": 4500000000,
                 "Cooldown": 0.05
             },
             {
                 "Price": 2200,
                 "Range": 25,
-                "Damage": 60,
+                "Damage": 60000000000000,
                 "Cooldown": 0.05
             }
         ]
