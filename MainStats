@@ -1678,7 +1678,7 @@
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
         "Rarity": "Epic",
-        "PlacePrice": 1000,
+        "PlacePrice": 1250,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -1690,28 +1690,28 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 250,
                 "Cooldown": 4,
-                "Farm": 100
+                "Farm": 250
             },
             {
                 "Price": 1500,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 350,
                 "Cooldown": 4,
-                "Farm": 200
+                "Farm": 350
             },
             {
                 "Price": 2000,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 400,
                 "Cooldown": 4,
                 "Farm": 400
             },
             {
                 "Price": 3000,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 850,
                 "Cooldown": 4,
                 "Farm": 600
             }
@@ -3507,12 +3507,12 @@
         ]
     },
     "Nightmare Fredbear": {
-        "Type": "Single",
+        "Type": "Continous Wither",
         "Image": "rbxassetid://18978153260",
-        "Rarity": "Secret",
-        "PlacePrice": 5000,
+        "Rarity": "Nightmare",
+        "PlacePrice": 2250,
         "Offset": 0.7,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3522,25 +3522,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 80,
+                "Damage": 800,
                 "Cooldown": 0.2
             },
             {
                 "Price": 6000,
                 "Range": 22,
-                "Damage": 95,
+                "Damage": 950,
                 "Cooldown": 0.17
             },
             {
                 "Price": 7500,
                 "Range": 25,
-                "Damage": 110,
+                "Damage": 1100,
                 "Cooldown": 0.14
             },
             {
                 "Price": 9000,
                 "Range": 30,
-                "Damage": 125,
+                "Damage": 1250,
                 "Cooldown": 0.15
             }
         ]
