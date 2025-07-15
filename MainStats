@@ -14090,7 +14090,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Offset": 0,
-        "Max": 2,
+        "Max": 69,
         "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
