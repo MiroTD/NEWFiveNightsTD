@@ -1,4 +1,80 @@
-
+ "Headless Shadow Freddy": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://16632239120",
+        "Rarity": "Mythic",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 14,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 15,
+                "Damage": 18,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 20,
+                "Damage": 25,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 30,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Big Head SpringBonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://88696040121516",
+        "Rarity": "Epic",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 40,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 50,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 60,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 60,
+                "Cooldown": 0.75
+            }
+        ]
+    },
 {
     "Freddy": {
         "Type": "Single",
@@ -14245,5 +14321,9 @@
     }
 }
 
+
+
+
+ima make my stuff down here
 
 
