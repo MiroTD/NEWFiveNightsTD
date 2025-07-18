@@ -1,3 +1,4 @@
+ },
  "Headless Shadow Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://116362133928930"",
@@ -75,7 +76,6 @@
             }
         ]
     },
-{
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
