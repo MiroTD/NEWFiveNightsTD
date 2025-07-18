@@ -14265,8 +14265,8 @@
                 "WitherTime": 1
             }
         ]
-},
-"M3GAN": {
+    },
+    "M3GAN": {
         "Type": "Single",
         "Image": "rbxassetid://129747551821745",
         "Rarity": "Nightmare",
