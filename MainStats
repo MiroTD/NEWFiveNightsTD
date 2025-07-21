@@ -4042,7 +4042,7 @@
     "Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
@@ -4229,7 +4229,7 @@
     "Party Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://103160362573950",
-        "Rarity": "Epic",
+        "Rarity": "Mythic",
         "PlacePrice": 500,
         "Offset": 0.7,
         "Max": 3,
