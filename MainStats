@@ -1,10 +1,10 @@
  {
  "MiroTD": {
-        "Type": "Continuous",
+        "Type": "Continuous AOE",
         "Image": "rbxassetid://116362133928930",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -14,25 +14,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 14,
+                "Damage": 1400,
                 "Cooldown": 0.05
             },
             {
                 "Price": 10000,
                 "Range": 15,
-                "Damage": 18,
+                "Damage": 1800,
                 "Cooldown": 0.05
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 25,
+                "Damage": 2500,
                 "Cooldown": 0.05
             },
             {
                 "Price": 25000,
                 "Range": 20,
-                "Damage": 30,
+                "Damage": 3000,
                 "Cooldown": 0.05
             }
         ]
