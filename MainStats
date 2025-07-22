@@ -75,7 +75,6 @@
             }
        ]
  }, 
-
  "Fan Guy": {
         "Type": "AOE",
         "Image": "rbxassetid://108254195758689",
@@ -459,7 +458,7 @@
                 "Cooldown": 0.75
             }
         ]
-    },
+ },
  "Neon RockStarBonnie": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
