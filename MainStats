@@ -5582,6 +5582,7 @@
                 "Damage": 1800,
                 "Cooldown": 0.1
                 "Slow": 0.5,
+                "SlowTime": 0.5,
             },
             {
                 "Price": 50000,
@@ -5589,6 +5590,7 @@
                 "Damage": 2200,
                 "Cooldown": 0.1
                 "Slow": 0.2,
+                "SlowTime": 0.5,
             },
             {
                 "Price": 57000,
@@ -5596,6 +5598,7 @@
                 "Damage": 2500,
                 "Cooldown": 0.1
                 "Slow": 0.1,
+                "SlowTime": 0.5,
             },
             {
                 "Price": 64000,
@@ -5603,6 +5606,7 @@
                 "Damage": 2800,
                 "Cooldown": 0.1
                 "Slow": 0.05,
+                "SlowTime": 0.5,
             }
         ]
     },
