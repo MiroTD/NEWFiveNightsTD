@@ -3464,7 +3464,7 @@
         "Rarity": "Secret",
         "PlacePrice": 800,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
         "hitboxOffset": {
             "X": 0,
@@ -3475,35 +3475,35 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 0,
+                "Damage": 50,
                 "Cooldown": 0.05,
                 "Slow": 0.25
             },
             {
                 "Price": 1000,
                 "Range": 25,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 0.05,
                 "Slow": 0.2
             },
             {
                 "Price": 1400,
                 "Range": 27,
-                "Damage": 0,
+                "Damage": 250,
                 "Cooldown": 0.05,
                 "Slow": 0.15
             },
             {
                 "Price": 1800,
                 "Range": 30,
-                "Damage": 0,
+                "Damage": 500,
                 "Cooldown": 0.05,
                 "Slow": 0.1
             },
             {
                 "Price": 2000,
                 "Range": 32,
-                "Damage": 0,
+                "Damage": 1000,
                 "Cooldown": 0.05,
                 "Slow": 0.05
             }
