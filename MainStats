@@ -627,6 +627,51 @@
             }
         ]
     },
+  "Shadow": {
+        "Type": "AOE NUKE very Very Cool M0dded 0 sigma",
+        "Image": "rbxassetid://73772382085933",
+        "Rarity": "Apex",
+        "PlacePrice": 1,
+        "Max": 99999999,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 109999999999999999999999,
+                "Damage": 499999999999999999999990,
+                "Cooldown": 0.00000000000000000001
+            },
+            {
+                "Price": 500,
+                "Range": 1000000090002,
+                "Damage": 9999999999999999999999999999999999999999999999,
+                "Cooldown": 0
+            },
+            {
+                "Price": 500,
+                "Range": 1000000000002,
+                "Damage": 99999999999999999999999999999999999999999999999,
+                "Cooldown": 0
+            },
+            {
+               "Price": 500,
+                "Range": 10000000090002,
+                "Damage": 99999999999999999999999999999999999999999999999999,
+                "Cooldown": 0
+},
+            {
+               "Price": 500,
+                "Range": 10000000009999002,
+                "Damage": 999999999999999999999999999999999999999999999999999,
+                "Cooldown": 0
+            }
+        ]
+    },
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
@@ -666,6 +711,7 @@
             }
         ]
     },
+
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
