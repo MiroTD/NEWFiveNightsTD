@@ -2650,10 +2650,10 @@
         ]
     },
     "Sentinel Bonnie": {
-        "Type": "Continuous",
+        "Type": "MIROTD BOOM",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Secret",
-        "PlacePrice": 4000,
+        "PlacePrice": 40000,
         "Offset": 0.35,
         "Max": 2,
         "hitboxOffset": {
@@ -2665,25 +2665,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 25,
+                "Damage": 250,
                 "Cooldown": 0.05
             },
             {
                 "Price": 5000,
                 "Range": 17,
-                "Damage": 30,
+                "Damage": 300,
                 "Cooldown": 0.05
             },
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 35,
+                "Damage": 305,
                 "Cooldown": 0.05
             },
             {
                 "Price": 7000,
                 "Range": 25,
-                "Damage": 45,
+                "Damage": 495,
                 "Cooldown": 0.05
             }
         ]
