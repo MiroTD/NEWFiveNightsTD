@@ -2653,7 +2653,7 @@
         "Type": "MIROTD BOOM",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Secret",
-        "PlacePrice": 4000,
+        "PlacePrice": 40,
         "Offset": 0.35,
         "Max": 2,
         "hitboxOffset": {
@@ -2665,26 +2665,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 250,
-                "Cooldown": 0.05
+                "Damage": 1,
+                "Cooldown": 0.000001
             },
             {
                 "Price": 5000,
                 "Range": 17,
-                "Damage": 300,
-                "Cooldown": 0.05
+                "Damage": 2,
+                "Cooldown": 0.000000001
             },
             {
                 "Price": 6000,
                 "Range": 20,
-                "Damage": 305,
-                "Cooldown": 0.05
+                "Damage": 5,
+                "Cooldown": 0.000000005
             },
             {
                 "Price": 7000,
                 "Range": 25,
-                "Damage": 495,
-                "Cooldown": 0.05
+                "Damage": 45,
+                "Cooldown": 0.0005
             }
         ]
     },
