@@ -2653,7 +2653,7 @@
         "Type": "MIROTD BOOM",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Secret",
-        "PlacePrice": 40000,
+        "PlacePrice": 4000,
         "Offset": 0.35,
         "Max": 2,
         "hitboxOffset": {
