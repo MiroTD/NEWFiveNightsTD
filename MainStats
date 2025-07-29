@@ -828,11 +828,11 @@
             }
         ]
     },
-    "Endo 02": {
-        "Type": " AOE",
+   "Endo 02": {
+        "Type": "Single",
         "Image": "rbxassetid://17690383931",
-        "Rarity": "Nightmare",
-        "PlacePrice": 10,
+        "Rarity": "Secret",
+        "PlacePrice": 600,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -844,34 +844,34 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 300000000000,
-                "Cooldown": 0.05
+                "Damage": 30,
+                "Cooldown": 0.3
             },
             {
                 "Price": 1200,
                 "Range": 18,
-                "Damage": 35000000000,
-                "Cooldown": 0.05
+                "Damage": 35,
+                "Cooldown": 0.3
             },
             {
                 "Price": 1600,
                 "Range": 22,
-                "Damage": 4500000000,
-                "Cooldown": 0.05
+                "Damage": 45,
+                "Cooldown": 0.3
             },
             {
                 "Price": 2200,
                 "Range": 25,
-                "Damage": 60000000000000,
-                "Cooldown": 0.05
+                "Damage": 60,
+                "Cooldown": 0.3
             }
         ]
     },
     "Plane Boy": {
-        "Type": "AOE",
+        "Type": "Continuous",
         "Image": "rbxassetid://17689713814",
-        "Rarity": "Nightmare",
-        "PlacePrice": 12500,
+        "Rarity": "Secret",
+        "PlacePrice": 20000,
         "Offset": 2,
         "Max": 2,
         "hitboxOffset": {
@@ -883,25 +883,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 305,
+                "Damage": 35,
                 "Cooldown": 0.05
             },
             {
-                "Price": 3000,
+                "Price": 30000,
                 "Range": 30,
-                "Damage": 450,
+                "Damage": 45,
                 "Cooldown": 0.05
             },
             {
-                "Price": 4000,
+                "Price": 40000,
                 "Range": 35,
-                "Damage": 600,
+                "Damage": 60,
                 "Cooldown": 0.05
             },
             {
-                "Price": 5000,
+                "Price": 50000,
                 "Range": 40,
-                "Damage": 650,
+                "Damage": 65,
                 "Cooldown": 0.05
             }
         ]
@@ -909,8 +909,8 @@
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
-        "Rarity": "Nightmare",
-        "PlacePrice": 850,
+        "Rarity": "Secret",
+        "PlacePrice": 500,
         "Max": 5,
         "hitboxOffset": {
             "X": 0,
@@ -921,28 +921,29 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 2
+                "Damage": 100,
+                "Cooldown": 0.5
             },
             {
                 "Price": 800,
                 "Range": 18,
-                "Damage": 1250,
-                "Cooldown": 1.75
+                "Damage": 125,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 1500,
-                "Cooldown": 1.5
+                "Damage": 150,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1600,
                 "Range": 20,
-                "Damage": 1750,
-                "Cooldown": 1
+                "Damage": 175,
+                "Cooldown": 0.5
             }
         ]
+    },
     },
     "Pirate Withered Foxy": {
         "Type": "Single",
