@@ -467,7 +467,7 @@
     "Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 54000,
         "Max": 4,
         "hitboxOffset": {
