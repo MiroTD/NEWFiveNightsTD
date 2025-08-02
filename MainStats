@@ -2626,6 +2626,81 @@
             }
         ]
     },
+  "Krakan Magle": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://70486594495068",
+        "Rarity": "Apex",
+        "PlacePrice": 200,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+                "SummonTime": 5,
+                "Health": 300,
+                "WalkSpeed": 10,
+                "Amount": 1,
+                "Unit": "Sunken Foxy",
+                "Offset": -2,
+                "SummonRange": 30,
+                "SummonDamage": 500,
+                "SummonCooldown": 0.1
+            },
+            {
+                "Price": 300,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+                "SummonTime": 4,
+                "Health": 300,
+                "WalkSpeed": 10,
+                "Amount": 1,
+                "Unit": "Sunken Foxy",
+                "Offset": -2,
+                "SummonRange": 30,
+                "SummonDamage": 500,
+                "SummonCooldown": 0.1
+            },
+            {
+                "Price": 500,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+                "SummonTime": 3,
+                "Health": 300,
+                "WalkSpeed": 10,
+                "Amount": 1,
+                "Unit": "Sunken Foxy",
+                "Offset": -2,
+                "SummonRange": 30,
+                "SummonDamage": 500,
+                "SummonCooldown": 0.1
+            },
+            {
+                "Price": 750,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 0,
+                "SummonTime": 2,
+                 "Health": 300,
+                "WalkSpeed": 10,
+                "Amount": 1,
+                "Unit": "Sunken Foxy",
+                "Offset": -2,
+                "SummonRange": 30,
+                "SummonDamage": 500,
+                "SummonCooldown": 0.1
+            }
+        ]
+    },
     "Rocketeer Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://18673926504",
