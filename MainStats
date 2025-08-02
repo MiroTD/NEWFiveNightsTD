@@ -232,6 +232,45 @@
             }
         ]
     },
+    "Sunkan Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://77671546852731",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 300,
+                "Range": 22,
+                "Damage": 55,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 444,
+                "Range": 30,
+                "Damage": 100,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 500,
+                "Range": 35,
+                "Damage": 200,
+                "Cooldown": 0.2
+            }
+        ]
+    },
         "Withered Chica": {
             "Type": "Single",
             "Image": "rbxassetid://16632209265",
