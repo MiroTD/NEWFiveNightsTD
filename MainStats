@@ -272,7 +272,7 @@
         ]
     },
    "Sunkan Freddy": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://75664533883387",
         "Rarity": "Nightmare",
         "PlacePrice": 4000,
