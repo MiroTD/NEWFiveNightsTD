@@ -38,6 +38,45 @@
             }
         ]
    },
+   "Spooked Summer Foxy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://18255813345",
+        "Rarity": "Summer",
+        "PlacePrice": 3333,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 27,
+                "Damage": 8000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 11000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12500,
+                "Range": 30,
+                "Damage": 13500,
+                "Cooldown": 1
+            }
+        ]
+    },
    "Sunkan Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://75664533883387",
