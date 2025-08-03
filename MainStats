@@ -307,7 +307,7 @@
                     "Cooldown": 0.75
                 }
             ]
-        },
+     },      
     "Withered Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://16632239120",
