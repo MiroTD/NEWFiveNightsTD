@@ -1,4 +1,82 @@
- {
+    { 
+    "Sunkan Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://83470951912464",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 300,
+                "Range": 22,
+                "Damage": 55,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 444,
+                "Range": 30,
+                "Damage": 60,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 500,
+                "Range": 35,
+                "Damage": 65,
+                "Cooldown": 0.1
+            }
+        ]
+   },
+   "Sunkan Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://75664533883387",
+        "Rarity": "Nightmare",
+        "PlacePrice": 4000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 3000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 55,
+                "Damage": 3500,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 3000,
+                "Range": 60,
+                "Damage": 4000,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 5000,
+                "Range": 70,
+                "Damage": 7000,
+                "Cooldown": 0.5
+             }
+       ]
+ },
  "Unreal Engine Missing Script": {
         "Type": "Continuous AOE",
         "Image": "rbxassetid://135631252087027",
@@ -362,26 +440,26 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 25,
-                "Cooldown": 0.05
+                "Damage": 250,
+                "Cooldown": 0.1
             },
             {
                 "Price": 35000,
                 "Range": 28,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Damage": 300,
+                "Cooldown": 0.1
             },
             {
                 "Price": 50000,
                 "Range": 32,
-                "Damage": 40,
-                "Cooldown": 0.05
+                "Damage": 400,
+                "Cooldown": 0.1
             },
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 50,
-                "Cooldown": 0.05
+                "Damage": 500,
+                "Cooldown": 0.1
             }
         ]
     },
