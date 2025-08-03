@@ -115,7 +115,6 @@
             }
         ]
     },
-
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
@@ -307,9 +306,9 @@
                 "Range": 70,
                 "Damage": 7000,
                 "Cooldown": 0.5
-            }
-        ]
-    },
+             }
+          ]
+        },
         "Withered Chica": {
             "Type": "Single",
             "Image": "rbxassetid://16632209265",
