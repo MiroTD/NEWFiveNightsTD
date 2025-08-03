@@ -467,9 +467,9 @@
     "Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
-        "Rarity": "Secret",
-        "PlacePrice": 54000,
-        "Max": 4,
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -479,25 +479,25 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 300,
+                "Damage": 30,
                 "Cooldown": 0.05
             },
             {
                 "Price": 35000,
                 "Range": 15,
-                "Damage": 350,
+                "Damage": 35,
                 "Cooldown": 0.05
             },
             {
                 "Price": 45000,
                 "Range": 20,
-                "Damage": 500,
+                "Damage": 50,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
                 "Range": 20,
-                "Damage": 650,
+                "Damage": 65,
                 "Cooldown": 0.05
             }
         ]
