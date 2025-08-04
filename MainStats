@@ -1,4 +1,4 @@
-    { 
+{ 
     "Sunkan Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://83470951912464",
@@ -38,6 +38,45 @@
             }
         ]
    },
+   "Flaming CupCake": {
+        "Type": "AOE",
+        "Image": "rbxassetid://75664533883387",
+        "Rarity": "Epic",
+        "PlacePrice": 100,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 75,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 80,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 90,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 100,
+                "Cooldown": 0.8
+             }
+       ]
+ },
    "Spooked Summer Foxy": {
         "Type": "Pierce",
         "Image": "rbxassetid://104546863569462",
