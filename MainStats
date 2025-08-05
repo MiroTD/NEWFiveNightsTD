@@ -38,6 +38,45 @@
             }
         ]
    },
+ "Phantom Scott": {
+        "Type": "Splash",
+        "Image": "rbxassetid://94349264413641",
+        "Rarity": "Secret",
+        "PlacePrice": 7000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 8000,
+                "Range": 40,
+                "Damage": 1000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 9000,
+                "Range": 50,
+                "Damage": 4000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 10000,
+                "Range": 60,
+                "Damage": 5000,
+                "Cooldown": 0.6
+            }
+        ]
+   },
    "TDMVC BONNSTER": {
         "Type": "AOE",
         "Image": "rbxassetid://88862477129270",
