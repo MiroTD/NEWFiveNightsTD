@@ -4117,13 +4117,13 @@
             }
         ]
     },
-    "Hydra Mangle": {
+    "Old Man Freddy": {
         "Type": "Charge AOE Burn",
-        "Image": "rbxassetid://78092879730354",
-        "Rarity": "Secret",
-        "PlacePrice": 20000,
+        "Image": "rbxassetid://119409690368886",
+        "Rarity": "Nightmare",
+        "PlacePrice": 11340,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "Passive": {"Name": "Burn", "Description": "Burns enemies"},
         "hitboxOffset": {
             "X": 0,
@@ -4134,7 +4134,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100,
+                "Damage": 1000,
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
@@ -4143,7 +4143,7 @@
             {
                 "Price": 25000,
                 "Range": 22,
-                "Damage": 125,
+                "Damage": 1250,
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
@@ -4152,7 +4152,7 @@
             {
                 "Price": 30000,
                 "Range": 24,
-                "Damage": 150,
+                "Damage": 1500,
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
@@ -4161,7 +4161,7 @@
             {
                 "Price": 35000,
                 "Range": 25,
-                "Damage": 175,
+                "Damage": 1750,
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
@@ -4170,7 +4170,7 @@
              {
                 "Price": 40000,
                 "Range": 27,
-                "Damage": 200,
+                "Damage": 2000,
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
