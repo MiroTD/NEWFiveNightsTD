@@ -38,6 +38,45 @@
             }
         ]
    },
+  "Injured GlamRockFreddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://129687929664548",
+        "Rarity": "Epic",
+        "PlacePrice": 0,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 5,
+                "Damage": 0.6,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 0.7,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0.9,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1,
+                "Cooldown": 0.0
+            }
+        ]
+   },
  "Phantom Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://94349264413641",
