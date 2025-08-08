@@ -9586,7 +9586,7 @@
         "Rarity": "Apex",
         "PlacePrice": 10,
         "Offset": 0,
-        "Max": 1,
+        "Max": 100,
         "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds deals splash damage equal to 15x this units damage in poison. All enemies in range are slowed by 60% and take 15% more damage."},
         "hitboxOffset": {
             "X": 0,
@@ -9596,7 +9596,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
+                "Range": 30000,
                 "Damage": 2000000000,
                 "Cooldown": 0.25,
                 "Slow": 0.4,
