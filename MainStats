@@ -8891,10 +8891,10 @@
             }
         ]
     },
-    "The King": {
-        "Type": "Pierce Spread",
-        "Image": "rbxassetid://95564353539990",
-        "Rarity": "Nightmare",
+    "Enraged Puppeteer": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
         "PlacePrice": 60000,
         "Offset": 0,
         "Max": 1,
@@ -8909,25 +8909,25 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 57000,
-                "Cooldown": 3
+                "Cooldown": 8
             },
             {
                 "Price": 70000,
                 "Range": 32,
                 "Damage": 66000,
-                "Cooldown": 3
+                "Cooldown": 7
             },
             {
                 "Price": 80000,
                 "Range": 34,
                 "Damage": 75000,
-                "Cooldown": 3
+                "Cooldown": 5
             },
             {
                 "Price": 90000,
                 "Range": 37,
                 "Damage": 84000,
-                "Cooldown": 3
+                "Cooldown": 4
             }
         ]
     },
