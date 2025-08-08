@@ -9584,7 +9584,7 @@
         "Type": "AOE Slow + Passive",
         "Image": "rbxassetid://138508234321719",
         "Rarity": "Apex",
-        "PlacePrice": 11340,
+        "PlacePrice": 10,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds deals splash damage equal to 15x this units damage in poison. All enemies in range are slowed by 60% and take 15% more damage."},
@@ -9597,7 +9597,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 2000,
+                "Damage": 2000000000,
                 "Cooldown": 0.25,
                 "Slow": 0.4,
                 "SlowTime": 2,
