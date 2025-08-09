@@ -8719,7 +8719,7 @@
     },
     "Upgraded Witch Toy Chica": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://96226378459150",
         "Rarity": "Nightmare",
         "PlacePrice": 2600,
         "Offset": 0,
@@ -8814,7 +8814,7 @@
     },
     "True Amalgam": {
         "Type": "Single Slow",
-        "Image": "",
+        "Image": "rbxassetid://135739412167271",
         "Rarity": "Forgotten",
         "PlacePrice": 11000,
         "Offset": 0,
@@ -8893,7 +8893,7 @@
     },
     "Enraged Puppeteer": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://74513855850695",
         "Rarity": "Secret",
         "PlacePrice": 60000,
         "Offset": 0,
