@@ -1759,7 +1759,7 @@
     "Endo 03": {
         "Type": "Single",
         "Image": "rbxassetid://18363471703",
-        "Rarity": "Epic",
+        "Rarity": "Rare",
         "PlacePrice": 2000,
         "Max": 3,
         "hitboxOffset": {
@@ -3606,9 +3606,9 @@
         ]
     },
     "Endo 04": {
-        "Type": "Cone AOE Burn",
+        "Type": "Single",
         "Image": "rbxassetid://18989232497",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
