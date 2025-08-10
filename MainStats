@@ -271,12 +271,12 @@
             }
         ]
   },
- "Shadow Withered Bonnie": {
-        "Type": "Single",
-        "Image": "rbxassetid://133450952167706",
-        "Rarity": "Secret",
-        "PlacePrice": 12500,
-        "Max": 3,
+ "Afton": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://98315382668815",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -287,26 +287,26 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 10,
-                "Cooldown": 0.1
+                "Damage": 10000,
+                "Cooldown": 1.35
             },
             {
                 "Price": 35000,
                 "Range": 28,
-                "Damage": 12,
-                "Cooldown": 0.1
+                "Damage": 12000,
+                "Cooldown": 1.2
             },
             {
                 "Price": 50000,
                 "Range": 32,
-                "Damage": 14,
-                "Cooldown": 0.1
+                "Damage": 14000,
+                "Cooldown": 1.1
             },
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 16,
-                "Cooldown": 0.1
+                "Damage": 16000,
+                "Cooldown": 0.5
             }
         ]
     },
