@@ -275,7 +275,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://98315382668815",
         "Rarity": "Nightmare",
-        "PlacePrice": 20000,
+        "PlacePrice": 48000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -287,25 +287,25 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 10000,
+                "Damage": 20000,
                 "Cooldown": 1.35
             },
             {
                 "Price": 35000,
                 "Range": 28,
-                "Damage": 12000,
+                "Damage": 22000,
                 "Cooldown": 1.2
             },
             {
                 "Price": 50000,
                 "Range": 32,
-                "Damage": 14000,
+                "Damage": 24000,
                 "Cooldown": 1.1
             },
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 16000,
+                "Damage": 36000,
                 "Cooldown": 0.5
             }
         ]
@@ -8895,9 +8895,9 @@
         "Type": "Single",
         "Image": "rbxassetid://74513855850695",
         "Rarity": "Secret",
-        "PlacePrice": 60000,
+        "PlacePrice": 82500,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
         "Passive": {"Name": "The Prophecy", "Description": "This unit gains a +25% damage bonus when paired with Tarnished Spring Bonnie."},
         "hitboxOffset": {
             "X": 0,
@@ -8908,26 +8908,26 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 57000,
-                "Cooldown": 8
+                "Damage": 87000,
+                "Cooldown": 10
             },
             {
                 "Price": 70000,
                 "Range": 32,
-                "Damage": 66000,
-                "Cooldown": 7
+                "Damage": 96000,
+                "Cooldown": 9
             },
             {
                 "Price": 80000,
                 "Range": 34,
-                "Damage": 75000,
-                "Cooldown": 5
+                "Damage": 105000,
+                "Cooldown": 8
             },
             {
                 "Price": 90000,
                 "Range": 37,
-                "Damage": 84000,
-                "Cooldown": 4
+                "Damage": 140000,
+                "Cooldown": 7
             }
         ]
     },
