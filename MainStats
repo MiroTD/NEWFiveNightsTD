@@ -8829,25 +8829,29 @@
                 "Price": 0,
                 "Range": 17,
                 "Damage": 200,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Slow": 0.35
             },
             {
                 "Price": 800,
                 "Range": 19,
                 "Damage": 300,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Slow": 0.2
             },
             {
                 "Price": 1000,
                 "Range": 20,
                 "Damage": 400,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+     .          "Slow": 0.15
             },
             {
                 "Price": 1200,
                 "Range": 22,
                 "Damage": 500,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Slow": 0.125
             }
         ]
     },
