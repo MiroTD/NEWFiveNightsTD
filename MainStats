@@ -3217,12 +3217,12 @@
         ]
     },
     "True Amalgam": {
-        "Type": "Slow",
+        "Type": "Single Stun",
         "Image": "rbxassetid://18937271323",
-        "Rarity": "Frogotten",
-        "PlacePrice": 12500,
+        "Rarity": "Forgotten",
+        "PlacePrice": 8000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
         "hitboxOffset": {
             "X": 0,
@@ -3233,37 +3233,37 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 50,
-                "Cooldown": 0.05,
+                "Damage": 50000,
+                "Cooldown": 4,
                 "Slow": 0.25
             },
             {
                 "Price": 1000,
                 "Range": 25,
-                "Damage": 100,
-                "Cooldown": 0.05,
-                "Slow": 0.2
+                "Damage": 75000,
+                "Cooldown": 3.5,
+                "Slow": 0.0001
             },
             {
                 "Price": 1400,
                 "Range": 27,
                 "Damage": 250,
                 "Cooldown": 0.05,
-                "Slow": 0.15
+                "Slow": 0.0001
             },
             {
                 "Price": 1800,
                 "Range": 30,
-                "Damage": 500,
-                "Cooldown": 0.05,
-                "Slow": 0.1
+                "Damage": 100000,
+                "Cooldown": 3,
+                "Slow": 0.0001
             },
             {
                 "Price": 2000,
                 "Range": 32,
-                "Damage": 1000,
-                "Cooldown": 0.05,
-                "Slow": 0.05
+                "Damage": 125000,
+                "Cooldown": 2.5,
+                "Slow": 0.0001
             }
         ]
     },
