@@ -3220,7 +3220,7 @@
         "Type": "Single Stun (CONCEPT BY NOICE)",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Forgotten",
-        "PlacePrice": 8000,
+        "PlacePrice": 250000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
@@ -3234,35 +3234,35 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 50000,
-                "Cooldown": 4,
-                "Slow": 0.25
+                "Cooldown": 1,
+                "Slow": 0.0001
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 75000,
-                "Cooldown": 3.5,
+                "Cooldown": 1,
                 "Slow": 0.0001
             },
             {
                 "Price": 1400,
                 "Range": 27,
-                "Damage": 250,
-                "Cooldown": 0.05,
+                "Damage": 95000,
+                "Cooldown": 1,
                 "Slow": 0.0001
             },
             {
                 "Price": 1800,
                 "Range": 30,
                 "Damage": 100000,
-                "Cooldown": 3,
+                "Cooldown": 1,
                 "Slow": 0.0001
             },
             {
                 "Price": 2000,
                 "Range": 32,
                 "Damage": 125000,
-                "Cooldown": 2.5,
+                "Cooldown": 1,
                 "Slow": 0.0001
             }
         ]
