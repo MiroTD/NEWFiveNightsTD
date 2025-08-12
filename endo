@@ -1,9 +1,47 @@
 { 
+"Lava Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://102306382201991",
+        "Rarity": "Nightmare",
+        "PlacePrice": 3333,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 3,
+                "Damage": 3,
+                "Cooldown": 0.3333
+            },
+            {
+                "Price": 333,
+                "Range": 3,
+                "Damage": 33,
+                "Cooldown": 0.333333
+            },
+            {
+                "Price": 333,
+                "Range": 3,
+                "Damage": 333,
+                "Cooldown": 0.3333
+            },
+            {
+                "Price": 333,
+                "Range": 33,
+                "Damage": 3333,
+                "Cooldown": 0.333
+            }
+        ]
+    },
     "Sunkan Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://83470951912464",
         "Rarity": "Primastick",
-        "PlacePrice": 3000,
+
         "Max": 5,
         "hitboxOffset": {
             "X": 0,
