@@ -2,7 +2,7 @@
 "Lava Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://102306382201991",
-        "Rarity": "Nightmare",
+        "Rarity": "Lava",
         "PlacePrice": 3333,
         "Max": 2,
         "hitboxOffset": {
