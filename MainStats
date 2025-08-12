@@ -2279,12 +2279,12 @@
         ]
     },
     "Sentinel Bonnie": {
-        "Type": "MIROTD BOOM",
+        "Type": "Continous",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Nightmare",
-        "PlacePrice": 4000,
+        "PlacePrice": 18000,
         "Offset": 0.35,
-        "Max": 2,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2294,26 +2294,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 150,
-                "Cooldown": 0.05
+                "Damage": 7500,
+                "Cooldown": 2
             },
             {
-                "Price": 5000,
+                "Price": 20000,
                 "Range": 17,
-                "Damage": 200,
-                "Cooldown": 0.05
+                "Damage": 9000,
+                "Cooldown": 2
             },
             {
-                "Price": 6000,
+                "Price": 26000,
                 "Range": 20,
-                "Damage": 500,
-                "Cooldown": 0.05
+                "Damage": 12000,
+                "Cooldown": 2 
             },
             {
-                "Price": 7000,
+                "Price": 28000,
                 "Range": 25,
-                "Damage": 700,
-                "Cooldown": 0.02
+                "Damage": 16000,
+                "Cooldown": 1.8
             }
         ]
     },
@@ -3217,7 +3217,7 @@
         ]
     },
     "True Amalgam": {
-        "Type": "Single Stun",
+        "Type": "Single Stun (CONCEPT BY NOICE)",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Forgotten",
         "PlacePrice": 8000,
