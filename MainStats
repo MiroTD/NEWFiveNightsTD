@@ -3216,11 +3216,11 @@
             }
         ]
     },
-    "The Crying Child": {
+    "True Amalgam": {
         "Type": "Slow",
         "Image": "rbxassetid://18937271323",
-        "Rarity": "Secret",
-        "PlacePrice": 800,
+        "Rarity": "Frogotten",
+        "PlacePrice": 12500,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
@@ -8812,7 +8812,7 @@
             }
         ]
     },
-    "True Amalgam": {
+    "True Amalm": {
         "Type": "Single Slow",
         "Image": "rbxassetid://135739412167271",
         "Rarity": "Forgotten",
@@ -8829,29 +8829,25 @@
                 "Price": 0,
                 "Range": 17,
                 "Damage": 200,
-                "Cooldown": 0.05,
-                "Slow": 0.35
+                "Cooldown": 0.05
             },
             {
                 "Price": 800,
                 "Range": 19,
                 "Damage": 300,
-                "Cooldown": 0.05,
-                "Slow": 0.2
+                "Cooldown": 0.05
             },
             {
                 "Price": 1000,
                 "Range": 20,
                 "Damage": 400,
-                "Cooldown": 0.05,
-     .          "Slow": 0.15
+                "Cooldown": 0.05
             },
             {
                 "Price": 1200,
                 "Range": 22,
                 "Damage": 500,
-                "Cooldown": 0.05,
-                "Slow": 0.125
+                "Cooldown": 0.05
             }
         ]
     },
