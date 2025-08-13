@@ -2279,12 +2279,12 @@
         ]
     },
     "Sentinel Bonnie": {
-        "Type": "Continous",
+        "Type": "Charge Dmg (25% for a real bullet)",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Nightmare",
-        "PlacePrice": 18000,
+        "PlacePrice": 14500,
         "Offset": 0.35,
-        "Max": 4,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2294,26 +2294,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 7500,
-                "Cooldown": 2
+                "Damage": 40000,
+                "Cooldown": 2.05
             },
             {
                 "Price": 20000,
                 "Range": 17,
-                "Damage": 9000,
-                "Cooldown": 2
+                "Damage": 50000,
+                "Cooldown": 2.05
             },
             {
                 "Price": 26000,
                 "Range": 20,
-                "Damage": 12000,
-                "Cooldown": 2 
+                "Damage": 62000,
+                "Cooldown": 2.05 
             },
             {
                 "Price": 28000,
                 "Range": 25,
-                "Damage": 16000,
-                "Cooldown": 1.8
+                "Damage": 76000,
+                "Cooldown": 2.05
             }
         ]
     },
@@ -3220,9 +3220,9 @@
         "Type": "Single Stun (CONCEPT BY NOICE)",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Forgotten",
-        "PlacePrice": 250000,
+        "PlacePrice": 8000,
         "Offset": 0,
-        "Max": 1,
+        "Max": 4,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
         "hitboxOffset": {
             "X": 0,
@@ -3234,35 +3234,35 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 50000,
-                "Cooldown": 1,
+                "Cooldown": 4,
                 "Slow": 0.0001
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 75000,
-                "Cooldown": 1,
+                "Cooldown": 4,
                 "Slow": 0.0001
             },
             {
                 "Price": 1400,
                 "Range": 27,
                 "Damage": 95000,
-                "Cooldown": 1,
+                "Cooldown": 4,
                 "Slow": 0.0001
             },
             {
                 "Price": 1800,
                 "Range": 30,
                 "Damage": 100000,
-                "Cooldown": 1,
+                "Cooldown": 4,
                 "Slow": 0.0001
             },
             {
                 "Price": 2000,
                 "Range": 32,
                 "Damage": 125000,
-                "Cooldown": 1,
+                "Cooldown": 3,
                 "Slow": 0.0001
             }
         ]
@@ -8892,10 +8892,10 @@
         ]
     },
     "Enraged Puppeteer": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://74513855850695",
         "Rarity": "Secret",
-        "PlacePrice": 82500,
+        "PlacePrice": 14500,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "The Prophecy", "Description": "This unit gains a +25% damage bonus when paired with Tarnished Spring Bonnie."},
@@ -8908,26 +8908,26 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 87000,
-                "Cooldown": 10
+                "Damage": 9000,
+                "Cooldown": 2
             },
             {
-                "Price": 70000,
+                "Price": 18000,
                 "Range": 32,
-                "Damage": 96000,
-                "Cooldown": 9
+                "Damage": 10600,
+                "Cooldown": 2
             },
             {
-                "Price": 80000,
+                "Price": 19500,
                 "Range": 34,
-                "Damage": 105000,
-                "Cooldown": 8
+                "Damage": 11000,
+                "Cooldown": 1.5
             },
             {
-                "Price": 90000,
+                "Price": 25000,
                 "Range": 37,
-                "Damage": 140000,
-                "Cooldown": 7
+                "Damage": 14000,
+                "Cooldown": 1.2
             }
         ]
     },
