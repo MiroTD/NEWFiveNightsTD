@@ -1,11 +1,11 @@
 { 
 "Neon Fred": {
-        "Type": "AOE",
+        "Type": "Neon Single XD",
         "Image": "rbxassetid://96777804515048",
         "Rarity": "Neon",
         "PlacePrice": 0,
         "Offset": 0,
-        "Max": 1,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
