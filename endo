@@ -1,4 +1,43 @@
 { 
+"Nean Fred": {
+        "Type": "AOE",
+        "Image": "rbxassetid://96777804515048",
+        "Rarity": "Neon",
+        "PlacePrice": 0,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1,
+                "Cooldown": 0.001
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1,
+                "Cooldown": 0.00001
+            },
+            {
+                "Price": 0,
+                "Range": 222,
+                "Damage": 1,
+                "Cooldown": 0.0
+            },
+            {
+                "Price": 0,
+                "Range": 2222,
+                "Damage": 1,
+                "Cooldown": 0.00001
+            }
+        ]
+    },
 "Lava Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://102306382201991",
