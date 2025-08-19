@@ -42,7 +42,7 @@
         "Type": "Single Spread",
         "Image": "",
         "Rarity": "Nightmare",
-        "PlacePrice": 0,
+        "PlacePrice": 25000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
