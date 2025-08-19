@@ -53,25 +53,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 5,
+                "Range": 20,
                 "Damage": 10000,
                 "Cooldown": 0.3
             },
             {
                 "Price": 0,
-                "Range": 10,
+                "Range": 30,
                 "Damage": 25000,
                 "Cooldown": 0.35
             },
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 45,
                 "Damage": 33500,
                 "Cooldown": 0.3
             },
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 50,
                 "Damage": 35000,
                 "Cooldown": 0.25
             }
