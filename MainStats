@@ -8141,13 +8141,13 @@
         ]
     },
 
-    "Popstar Chica": {
+    "Miku": {
         "Type": "AOE + Damage Boost",
         "Image": "rbxassetid://122725475592106",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": -5,
-        "Max": 1,
+        "Max": 3,
         "Passive": {"Name": "Inspire", "Description": "All units in range gain a +35% damage boost (x1.25 if shiny)"},
         "hitboxOffset": {
             "X": 0,
@@ -8159,14 +8159,14 @@
                 "Price": 0,
                 "Range": 35,
                 "Damage": 200,
-                "Cooldown": 0.1,
+                "Cooldown": 0.05,
                 "DamageBoost": 1.35
             },
             {
                 "Price": 20000,
                 "Range": 40,
                 "Damage": 250,
-                "Cooldown": 0.1,
+                "Cooldown": 0.05,
                 "DamageBoost": 1.35
 
             },
@@ -8174,7 +8174,7 @@
                 "Price": 25000,
                 "Range": 45,
                 "Damage": 300,
-                "Cooldown": 0.1,
+                "Cooldown": 0.05,
                 "DamageBoost": 1.35
 
             },
@@ -8182,7 +8182,7 @@
                 "Price": 30000,
                 "Range": 50,
                 "Damage": 450,
-                "Cooldown": 0.1,
+                "Cooldown": 0.05,
                 "DamageBoost": 1.35
             }
         ]
@@ -8231,14 +8231,13 @@
     },
 
 
-    "Mr Can Do": {
-        "Type": "Single",
-        "Image": "rbxassetid://127532360538478",
-        "Rarity": "Secret",
-        "PlacePrice": 700,
+    "Teto": {
+        "Type": "AOE",
+        "Image": "rbxassetid://122725475592106",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7000,
         "Offset": -1.75,
         "Max": 3,
-        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8248,29 +8247,29 @@
                       {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
-                "Cooldown": 1,
+                "Damage": 250,
+                "Cooldown": 0.05,
                 "CooldownBoost": 0.95
             },
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 0,
-                "Cooldown": 1,
+                "Damage": 300,
+                "Cooldown": 0.05,
                 "CooldownBoost": 0.9
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 0,
-                "Cooldown": 1,
+                "Damage": 350,
+                "Cooldown": 0.05,
                 "CooldownBoost": 0.85
             },
             {
                 "Price": 1400,
                 "Range": 20,
-                "Damage": 0,
-                "Cooldown": 1,
+                "Damage": 400,
+                "Cooldown": 0.05,
                 "CooldownBoost": 0.8
             }
         ]
