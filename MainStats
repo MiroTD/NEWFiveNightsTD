@@ -1,7 +1,7 @@
 { 
     "Shadow Chica": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://140049222315013",
         "Rarity": "Nightmare",
         "PlacePrice": 30000,
         "Max": 2,
@@ -5846,8 +5846,8 @@
     "Animdude": {
         "Type": "Nuke",
         "Image": "rbxassetid://77112261441145",
-        "Rarity": "Secret",
-        "PlacePrice": 4000,
+        "Rarity": "Nightmare",
+        "PlacePrice": 500000,
         "Offset": 1.25,
         "Max": 1,
         "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice"},
@@ -5860,37 +5860,37 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 4000,
+                "Damage": 400000,
                 "Cooldown": 2.5
             },
             {
                 "Price": 10000,
                 "Range": 27,
-                "Damage": 5000,
+                "Damage": 500000,
                 "Cooldown": 2.4
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 6500,
+                "Damage": 650000,
                 "Cooldown": 2.3
             },
             {
                 "Price": 30000,
                 "Range": 34,
-                "Damage": 8000,
+                "Damage": 800000,
                 "Cooldown": 2.2
             },
             {
                 "Price": 40000,
                 "Range": 37,
-                "Damage": 12000,
+                "Damage": 1200000,
                 "Cooldown": 2.1
             },
             {
                 "Price": 80000,
                 "Range": 40,
-                "Damage": 15000,
+                "Damage": 1500000,
                 "Cooldown": 2
             }
         ]
