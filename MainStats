@@ -14521,13 +14521,13 @@
             }
         ]
     },
-    "Blossom Foxy": {
-        "Type": "Single",
-        "Image": "rbxassetid://83096367295080",
-        "Rarity": "Rare",
-        "PlacePrice": 500,
+    "Stringed Despair": {
+        "Type": "AOE PASSIVE",
+        "Image": "rbxassetid://113066902777427",
+        "Rarity": "Vonour",
+        "PlacePrice": 50000,
         "Offset": 0,
-        "Max": 8,
+        "Max": 2,
         "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -14539,7 +14539,7 @@
             {
                 "Price": 0,
                 "Range": 28,
-                "Damage": 80,
+                "Damage": 80000,
                 "Cooldown": 0.5,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
@@ -14548,8 +14548,8 @@
             {
                 "Price": 600,
                 "Range": 32,
-                "Damage": 40,
-                "Cooldown": 0.35,
+                "Damage": 40000,
+                "Cooldown": 0.2,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
                 "WitherTime": 1
@@ -14557,8 +14557,8 @@
             {
                 "Price": 700,
                 "Range": 35,
-                "Damage": 50,
-                "Cooldown": 0.25,
+                "Damage": 50000,
+                "Cooldown": 0.2,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
                 "WitherTime": 1
@@ -14566,7 +14566,7 @@
             {
                 "Price": 800,
                 "Range": 38,
-                "Damage": 60,
+                "Damage": 60000,
                 "Cooldown": 0.15,
                 "Wither": 5,
                 "ShinyWither": 1.3,
@@ -15151,7 +15151,7 @@
                 "Price": 45000,
                 "Range": 38,
                 "Damage": 300000,
-                "Cooldown": 0.4,
+                "Cooldown": 0.2,
                 "Wither": 5,
                 "ShinyWither": 1.3,
                 "WitherTime": 1
