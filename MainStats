@@ -273,10 +273,10 @@
   },
  "Afton": {
         "Type": "Pierce",
-        "Image": "rbxassetid://98315382668815",
+        "Image": "rbxassetid://92704425313214",
         "Rarity": "Nightmare",
-        "PlacePrice": 48000,
-        "Max": 2,
+        "PlacePrice": 88000,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -287,25 +287,25 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 20000,
+                "Damage": 70000,
                 "Cooldown": 1.35
             },
             {
                 "Price": 35000,
                 "Range": 28,
-                "Damage": 22000,
+                "Damage": 82000,
                 "Cooldown": 1.2
             },
             {
                 "Price": 50000,
                 "Range": 32,
-                "Damage": 24000,
+                "Damage": 94000,
                 "Cooldown": 1.1
             },
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 36000,
+                "Damage": 160000,
                 "Cooldown": 0.5
             }
         ]
@@ -7161,8 +7161,8 @@
     },
 "Galaxy Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://95034424663388",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://132960881595744",
+        "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
@@ -7176,32 +7176,32 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 100000,
-                "Cooldown": 2
+                "Cooldown": 1.25
             },
             {
                 "Price": 800,
                 "Range": 20,
                 "Damage": 120000,
-                "Cooldown": 2
+                "Cooldown": 1.2
             },
             {
                 "Price": 1200,
                 "Range": 22,
                 "Damage": 130000,
-                "Cooldown": 2
+                "Cooldown": 1
             },
             {
                 "Price": 1500,
                 "Range": 24,
                 "Damage": 140000,
-                "Cooldown": 1.5
+                "Cooldown": 1
             }
         ]
     },
 "Matrix Freddy": {
         "Type": "AOE + Wither",
         "Image": "rbxassetid://127992821871008",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 75000,
         "Offset": 0,
         "Max": 1,
@@ -7240,7 +7240,7 @@
 "Glitched Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://115410251423669",
-        "Rarity": "Vonour",
+        "Rarity": "Apex",
         "PlacePrice": 95000,
         "Offset": 0.5,
         "Max": 1,
@@ -11442,11 +11442,11 @@
             }
         ]
     },
-    "Flaming Springtrap": {
-        "Type": "Splash Burn + Slow",
+    "JackoTrap": {
+        "Type": "AOE",
         "Image": "rbxassetid://90439626995960",
-        "Rarity": "Nightmare",
-        "PlacePrice": 16000,
+        "Rarity": "Vonour",
+        "PlacePrice": 105000,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Slow Burn", "Description": "Attacks slow enemies by 50%"},
@@ -11459,8 +11459,8 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1.8,
+                "Damage": 80000,
+                "Cooldown": 0.8,
                 "Slow": 0.5,
                 "SlowTime": 2,
                 "Burn": 38,
@@ -11469,8 +11469,8 @@
             {
                 "Price": 20000,
                 "Range": 24,
-                "Damage": 12000,
-                "Cooldown": 1.7,
+                "Damage": 120000,
+                "Cooldown": 0.7,
                 "Slow": 0.5,
                 "SlowTime": 2,
                 "Burn": 38,
@@ -11479,8 +11479,8 @@
             {
                 "Price": 25000,
                 "Range": 28,
-                "Damage": 16000,
-                "Cooldown": 1.6,
+                "Damage": 160000,
+                "Cooldown": 0.6,
                 "Slow": 0.5,
                 "SlowTime": 2,
                 "Burn": 38,
@@ -11489,8 +11489,8 @@
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 17000,
-                "Cooldown": 1.5,
+                "Damage": 170000,
+                "Cooldown": 0.5,
                 "Slow": 0.5,
                 "SlowTime": 2,
                 "Burn": 38,
