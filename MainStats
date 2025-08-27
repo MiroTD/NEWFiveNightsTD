@@ -890,10 +890,10 @@
         ]
     },
     "Golden Freddy": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://17629034232",
-        "Rarity": "Mythic",
-        "PlacePrice": 4000,
+        "Rarity": "Secret",
+        "PlacePrice": 12500,
         "Max": 2,
         "Offset": 0,
         "hitboxOffset": {
@@ -905,26 +905,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 250,
-                "Cooldown": 1.5
+                "Damage": 2500,
+                "Cooldown": 0.25
             },
             {
                 "Price": 7000,
                 "Range": 18,
-                "Damage": 300,
-                "Cooldown": 1.25
+                "Damage": 3000,
+                "Cooldown": 0.25
             },
             {
                 "Price": 10000,
                 "Range": 20,
-                "Damage": 400,
-                "Cooldown": 1
+                "Damage": 3005,
+                "Cooldown": 0.25
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 500,
-                "Cooldown": 1
+                "Damage": 3000,
+                "Cooldown": 0.2
             }
         ]
     },
@@ -6848,12 +6848,12 @@
     },
 
 "Haunted Golden Freddy": {
-        "Type": "Single",
+        "Type": "AOE + WITHER",
         "Image": "rbxassetid://113183024632182",
-        "Rarity": "Mythic",
-        "PlacePrice": 4000,
+        "Rarity": "Nightmare",
+        "PlacePrice": 8000,
         "Offset": -2,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -6863,26 +6863,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 500,
-                "Cooldown": 1.5
+                "Damage": 50000,
+                "Cooldown": 1.4
             },
             {
                 "Price": 7000,
                 "Range": 18,
-                "Damage": 600,
-                "Cooldown": 1.25
+                "Damage": 60000,
+                "Cooldown": 1.4
             },
             {
                 "Price": 10000,
                 "Range": 20,
-                "Damage": 800,
-                "Cooldown": 1
+                "Damage": 80000,
+                "Cooldown": 1.4
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 100000,
+                "Cooldown": 1.4
             }
         ]
     },
@@ -7163,7 +7163,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://132960881595744",
         "Rarity": "Nightmare",
-        "PlacePrice": 50000,
+        "PlacePrice": 85000,
         "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
@@ -7175,25 +7175,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100000,
+                "Damage": 150000,
                 "Cooldown": 1.25
             },
             {
                 "Price": 800,
                 "Range": 20,
-                "Damage": 120000,
+                "Damage": 160000,
                 "Cooldown": 1.2
             },
             {
                 "Price": 1200,
                 "Range": 22,
-                "Damage": 130000,
+                "Damage": 180000,
                 "Cooldown": 1
             },
             {
                 "Price": 1500,
                 "Range": 24,
-                "Damage": 140000,
+                "Damage": 195000,
                 "Cooldown": 1
             }
         ]
@@ -7275,7 +7275,7 @@
                 "Price": 40000,
                 "Range": 31,
                 "Damage": 180000,
-                "Cooldown": 0.5,
+                "Cooldown": 0.7,
                 "Slow": 0.40,
                 "SlowTime": 3,
                 "Bleed": 0.5,
@@ -7285,7 +7285,7 @@
                 "Price": 50000,
                 "Range": 35,
                 "Damage": 210000,
-                "Cooldown": 0.5,
+                "Cooldown": 0.7,
                 "Slow": 0.40,
                 "SlowTime": 3,
                 "Bleed": 0.5,
