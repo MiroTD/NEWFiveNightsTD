@@ -116,12 +116,12 @@
             }
         ]
    },
-   "TDMVC BONNSTER": {
+   "Golden Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://88862477129270",
-        "Rarity": "Epic",
-        "PlacePrice": 100,
-        "Max": 3,
+        "Image": "rbxassetid://92104552893897",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -132,34 +132,34 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 75,
+                "Damage": 7500,
                 "Cooldown": 1
             },
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 80,
+                "Damage": 8000,
                 "Cooldown": 0.9
             },
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 90,
+                "Damage": 9000,
                 "Cooldown": 0.8
             },
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 100,
+                "Damage": 10000,
                 "Cooldown": 0.8
              }
        ]
  },
-   "Spooked Summer Foxy": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://104546863569462",
-        "Rarity": "Summer",
-        "PlacePrice": 3333,
+   "Haunted Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://87712223852722",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -171,35 +171,35 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 6000,
-                "Cooldown": 1.5
+                "Damage": 15000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 7500,
                 "Range": 27,
-                "Damage": 8000,
-                "Cooldown": 1
+                "Damage": 17500,
+                "Cooldown": 0.5
             },
             {
                 "Price": 10000,
                 "Range": 30,
-                "Damage": 11000,
-                "Cooldown": 1
+                "Damage": 18000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 12500,
                 "Range": 30,
-                "Damage": 13500,
-                "Cooldown": 1
+                "Damage": 20000,
+                "Cooldown": 0.5
             }
         ]
     },
-   "Sunkan Freddy": {
+   "Nightmare Creep Foxy": {
         "Type": "AOE",
-        "Image": "rbxassetid://75664533883387",
+        "Image": "rbxassetid://116705236800776",
         "Rarity": "Nightmare",
-        "PlacePrice": 4000,
-        "Max": 3,
+        "PlacePrice": 40000,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -210,26 +210,26 @@
             {
                 "Price": 0,
                 "Range": 50,
-                "Damage": 3000,
+                "Damage": 30000,
                 "Cooldown": 1
             },
             {
                 "Price": 2000,
                 "Range": 55,
-                "Damage": 3500,
-                "Cooldown": 0.9
+                "Damage": 35000,
+                "Cooldown": 1
             },
             {
                 "Price": 3000,
                 "Range": 60,
-                "Damage": 4000,
-                "Cooldown": 0.5
+                "Damage": 40000,
+                "Cooldown": 1
             },
             {
                 "Price": 5000,
                 "Range": 70,
-                "Damage": 7000,
-                "Cooldown": 0.5
+                "Damage": 70000,
+                "Cooldown": 1
              }
        ]
  },
@@ -6863,26 +6863,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 50000,
-                "Cooldown": 1.4
+                "Damage": 70000,
+                "Cooldown": 2
             },
             {
                 "Price": 7000,
                 "Range": 18,
-                "Damage": 60000,
-                "Cooldown": 1.4
+                "Damage": 80000,
+                "Cooldown": 2
             },
             {
                 "Price": 10000,
                 "Range": 20,
-                "Damage": 80000,
-                "Cooldown": 1.4
+                "Damage": 90000,
+                "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 20,
                 "Damage": 100000,
-                "Cooldown": 1.4
+                "Cooldown": 2
             }
         ]
     },
