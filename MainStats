@@ -5365,7 +5365,7 @@
 "Ennard": {
         "Type": "Chain Shock",
         "Image": "rbxassetid://82456156246566",
-        "Rarity": "Nightmare",
+        "Rarity": "Vonour",
         "PlacePrice": 43000,
         "Offset": 0.75,
         "Max": 3,
@@ -5415,7 +5415,7 @@
 "Circus Baby": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://109411645448750",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 17500,
         "Offset": 0,
         "Max": 3,
@@ -5462,7 +5462,7 @@
 "Ballora": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://96561789964833",
-        "Rarity": "Mythic",
+        "Rarity": "Secret",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -5506,7 +5506,7 @@
 "Funtime Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://130210196007742",
-        "Rarity": "Rare",
+        "Rarity": "Epic",
         "PlacePrice": 450,
         "Offset": 0.3,
         "Max": 3,
@@ -5545,7 +5545,7 @@
 "Funtime Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://113691386593768",
-        "Rarity": "Epic",
+        "Rarity": "Mythic",
         "PlacePrice": 7500,
         "Offset": 0,
         "Max": 3,
