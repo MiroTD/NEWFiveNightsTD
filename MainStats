@@ -15203,7 +15203,7 @@
     },
     "Vampire Plushtrap": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://127060082291062",
         "Rarity": "Secret",
         "PlacePrice": 35000,
         "Offset": 0,
@@ -15256,7 +15256,7 @@
     },
     "Shadow Man": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://77430004515513",
         "Rarity": "Mythic",
         "PlacePrice": 7000,
         "Offset": 0,
@@ -15309,7 +15309,7 @@
     },
     "Skinwalker Bonnie": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://77430004515513",
         "Rarity": "Epic",
         "PlacePrice": 5000,
         "Offset": 0,
@@ -15362,7 +15362,7 @@
     },
     "Scary Foxy": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://119716362724322",
         "Rarity": "Rare",
         "PlacePrice": 700,
         "Offset": 0,
