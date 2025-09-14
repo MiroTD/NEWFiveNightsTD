@@ -14321,9 +14321,9 @@
             }
         ]
     },
-    "Star Spangled Orville": {
+    "Esok Sekolah": {
         "Type": "Explosive Wither",
-        "Image": "rbxassetid://127898009659800",
+        "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 44000,
         "Offset": -1.5,
@@ -15174,7 +15174,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 25,
                 "Damage": 100000,
                 "Cooldown": 0.6,
                 "Wither": 1.2,
@@ -15227,7 +15227,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 25,
                 "Damage": 10000,
                 "Cooldown": 0.6,
                 "Wither": 1.2,
@@ -15280,7 +15280,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 25,
                 "Damage": 1000,
                 "Cooldown": 0.6,
                 "Wither": 1.2,
@@ -15307,13 +15307,13 @@
         }
        ]
     },
-    "Skinwalker Bonnie": {
+    "Los Bombinitos": {
         "Type": "AOE",
-        "Image": "rbxassetid://77430004515513",
-        "Rarity": "Epic",
-        "PlacePrice": 5000,
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 50000,
         "Offset": 0,
-        "Max": 4,
+        "Max": 1,
         "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -15325,7 +15325,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 2000,
+                "Damage": 2000000,
                 "Cooldown": 5.5,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
@@ -15333,8 +15333,8 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
-                "Damage": 3500,
+                "Range": 25,
+                "Damage": 3500000,
                 "Cooldown": 5,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
@@ -15343,7 +15343,7 @@
             {
                 "Price": 35000,
                 "Range": 30,
-                "Damage": 4000,
+                "Damage": 400000,
                 "Cooldown": 4,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
@@ -15352,7 +15352,7 @@
             {
                 "Price": 45000,
                 "Range": 38,
-                "Damage": 5000,
+                "Damage": 5000000,
                 "Cooldown": 3,
                 "Wither": 5,
                 "ShinyWither": 1.3,
@@ -15386,7 +15386,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 25,
                 "Damage": 1000,
                 "Cooldown": 1.4,
                 "Wither": 1.2,
@@ -15413,7 +15413,7 @@
           }
       ]
     },
-    "Corrupted Puppeteer": {
+"Karkerkar Kurkur": {
         "Type": "AOE",
         "Image": "",
         "Rarity": "Nightmare",
