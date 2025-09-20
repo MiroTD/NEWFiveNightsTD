@@ -15463,6 +15463,167 @@
                 "Wither": 5,
                 "ShinyWither": 1.3,
                 "WitherTime": 1
+          }
+      ]
+    },
+"Centralucci": {
+        "Type": "AOE",
+        "Image": "rbxassetid://130054018933146",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 0.75,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 30000,
+                "Damage": 1200,
+                "Cooldown": 0.6,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 0.5,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 45000,
+                "Range": 38,
+                "Damage": 1800,
+                "Cooldown": 0.5,
+                "Wither": 5,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+          }
+      ]
+    },
+"Nuclearo": {
+        "Type": "AOE",
+        "Image": "rbxassetid://72207682408636",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 8000,
+                "Cooldown": 0.5,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 30000,
+                "Damage": 12000,
+                "Cooldown": 0.5,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 0.5,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 45000,
+                "Range": 38,
+                "Damage": 18000,
+                "Cooldown": 0.5,
+                "Wither": 5,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+          }
+      ]
+    },
+"Elefantino": {
+        "Type": "AOE",
+        "Image": "rbxassetid://108745889865791",
+        "Rarity": "Secret",
+        "PlacePrice": 1250,
+        "Offset": 0,
+        "Max": 4,
+        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.75,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 30000,
+                "Damage": 1500,
+                "Cooldown": 0.6,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 1800,
+                "Cooldown": 0.5,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 45000,
+                "Range": 38,
+                "Damage": 2100,
+                "Cooldown": 0.5,
+                "Wither": 5,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+
+
             }
         ]
     }
