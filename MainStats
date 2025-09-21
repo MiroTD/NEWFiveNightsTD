@@ -14462,7 +14462,7 @@
         "Type": "Continous Splash Wither + Passive",
         "Image": "rbxassetid://112806747062575",
         "Rarity": "Nightmare",
-        "PlacePrice": 50000,
+        "PlacePrice": 250000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
@@ -15205,9 +15205,9 @@
         "Type": "AOE",
         "Image": "rbxassetid://127060082291062",
         "Rarity": "Secret",
-        "PlacePrice": 35000,
+        "PlacePrice": 175000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -15439,7 +15439,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 30,
                 "Damage": 30000,
                 "Cooldown": 0.6,
                 "Wither": 1.2,
@@ -15492,7 +15492,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 30,
                 "Damage": 1200,
                 "Cooldown": 0.6,
                 "Wither": 1.2,
@@ -15545,7 +15545,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 30,
                 "Damage": 12000,
                 "Cooldown": 0.5,
                 "Wither": 1.2,
@@ -15598,7 +15598,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 30,
                 "Damage": 1500,
                 "Cooldown": 0.6,
                 "Wither": 1.2,
@@ -15651,7 +15651,7 @@
             },
             {
                 "Price": 600,
-                "Range": 30000,
+                "Range": 30,
                 "Damage": 15000,
                 "Cooldown": 0.6,
                 "Wither": 1.2,
