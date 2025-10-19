@@ -16189,7 +16189,7 @@
                 "WitherTime": 1
             },
             {
-                "Price": 35000,
+                "Price": 3500,
                 "Range": 30,
                 "Damage": 60,
                 "Cooldown": 0.5,
@@ -16198,7 +16198,7 @@
                 "WitherTime": 1
             },
             {
-                "Price": 45000,
+                "Price": 4500,
                 "Range": 38,
                 "Damage": 130,
                 "Cooldown": 0.5,
