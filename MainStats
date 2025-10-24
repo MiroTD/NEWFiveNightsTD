@@ -271,11 +271,11 @@
             }
         ]
   },
- "Afton": {
+ "Dark Freddy": {
         "Type": "Pierce",
-        "Image": "rbxassetid://92704425313214",
+        "Image": "rbxassetid://16781122207",
         "Rarity": "Nightmare",
-        "PlacePrice": 88000,
+        "PlacePrice": 80000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -288,25 +288,25 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 70000,
-                "Cooldown": 1.35
+                "Cooldown": 2
             },
             {
                 "Price": 35000,
                 "Range": 28,
                 "Damage": 82000,
-                "Cooldown": 1.2
+                "Cooldown": 2
             },
             {
                 "Price": 50000,
                 "Range": 32,
                 "Damage": 94000,
-                "Cooldown": 1.1
+                "Cooldown": 2
             },
             {
                 "Price": 70000,
                 "Range": 35,
                 "Damage": 160000,
-                "Cooldown": 0.5
+                "Cooldown": 2
             }
         ]
     },
