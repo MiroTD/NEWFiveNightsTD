@@ -273,7 +273,7 @@
   },
  "Dark Freddy": {
         "Type": "Pierce",
-        "Image": "rbxassetid://16781122207",
+        "Image": "rbxassetid://85175655670996",
         "Rarity": "Nightmare",
         "PlacePrice": 80000,
         "Max": 1,
@@ -288,25 +288,25 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 70000,
-                "Cooldown": 2
+                "Cooldown": 4
             },
             {
                 "Price": 35000,
                 "Range": 28,
                 "Damage": 82000,
-                "Cooldown": 2
+                "Cooldown": 3.5
             },
             {
                 "Price": 50000,
                 "Range": 32,
                 "Damage": 94000,
-                "Cooldown": 2
+                "Cooldown": 3
             },
             {
                 "Price": 70000,
                 "Range": 35,
                 "Damage": 160000,
-                "Cooldown": 2
+                "Cooldown": 2.5
             }
         ]
     },
