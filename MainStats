@@ -6312,7 +6312,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 7500,
         "Offset": -1.4,
-        "Max": 1,
+        "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Slows enemies by 40%"},
         "hitboxOffset": {
             "X": 0,
@@ -6323,7 +6323,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1200,
+                "Damage": 2200,
                 "Cooldown": 0.25,
                 "Slow": 0.6,
                 "SlowTime": 1
@@ -6331,7 +6331,7 @@
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 1400,
+                "Damage": 2400,
                 "Cooldown": 0.25,
                 "Slow": 0.6,
                 "SlowTime": 1
@@ -6339,7 +6339,7 @@
             {
                 "Price": 20000,
                 "Range": 24,
-                "Damage": 1800,
+                "Damage": 2800,
                 "Cooldown": 0.25,
                 "Slow": 0.6,
                 "SlowTime": 1
@@ -6347,7 +6347,7 @@
             {
                 "Price": 25000,
                 "Range": 27,
-                "Damage": 2250,
+                "Damage": 3250,
                 "Cooldown": 0.25,
                 "Slow": 0.6,
                 "SlowTime": 1
@@ -6372,25 +6372,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 10000,
+                "Damage": 20000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 22222,
                 "Range": 28,
-                "Damage": 12500,
+                "Damage": 22500,
                 "Cooldown": 0.25
             },
             {
                 "Price": 33333,
                 "Range": 32,
-                "Damage": 15000,
+                "Damage": 25000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 44444,
                 "Range": 35,
-                "Damage": 20000,
+                "Damage": 30000,
                 "Cooldown": 0.25
             }
         ]
@@ -7563,10 +7563,10 @@
     "Super Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://92313535673690",
-        "Rarity": "Secret",
-        "PlacePrice": 12000,
+        "Rarity": "Nightmare",
+        "PlacePrice": 32500,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -7576,25 +7576,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 240,
+                "Damage": 2040,
                 "Cooldown": 0.1
             },
             {
                 "Price": 14000,
                 "Range": 23,
-                "Damage": 260,
+                "Damage": 2500,
                 "Cooldown": 0.1
             },
             {
                 "Price": 16000,
                 "Range": 27,
-                "Damage": 280,
+                "Damage": 3000,
                 "Cooldown": 0.1
             },          
              {
                 "Price": 18000,
                 "Range": 30,
-                "Damage": 300,
+                "Damage": 4000,
                 "Cooldown": 0.1
             }
         ]
@@ -7858,9 +7858,9 @@
         "Type": "AOE + Summon",
         "Image": "rbxassetid://71854603701229",
         "Rarity": "Nightmare",
-        "PlacePrice": 10000,
+        "PlacePrice": 75000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Puppet", "Description": "Summons crying souls that are equal to 100x this units damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -7872,30 +7872,30 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 550,
+                "Damage": 5500,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.25
+                "Cooldown": 0.2
             },
             {
                 "Price": 20000,
                 "Range": 28,
-                "Damage": 800,
+                "Damage": 8000,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.25
+                "Cooldown": 0.2
             },
             {
                 "Price": 30000,
                 "Range": 31,
-                "Damage": 950,
+                "Damage": 9500,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.25
+                "Cooldown": 0.2
             },
             {
                 "Price": 40000,
                 "Range": 35,
-                "Damage": 1250,
+                "Damage": 22000,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.25
+                "Cooldown": 0.2
             }
         ]
     },
@@ -8021,8 +8021,8 @@
     "Rockstar Foxy": {
         "Type": "AOE + Booster",
         "Image": "rbxassetid://94327478010876",
-        "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "Rarity": "Nightmare",
+        "PlacePrice": 45000,
         "NoEnemyAttack": true,
         "Offset": 0,
         "Max": 2,
@@ -8036,14 +8036,14 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100,
+                "Damage": 1000,
                 "Cooldown": 0.1,
                 "RangeBoost": 1.35
             },
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 150,
+                "Damage": 1500,
                 "Cooldown": 0.1,
                 "RangeBoost": 1.35
 
@@ -8051,7 +8051,7 @@
             {
                 "Price": 25000,
                 "Range": 24,
-                "Damage": 200,
+                "Damage": 2000,
                 "Cooldown": 0.1,
                 "RangeBoost": 1.35
 
@@ -8059,7 +8059,7 @@
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 250,
+                "Damage": 2500,
                 "Cooldown": 0.1,
                 "RangeBoost": 1.35
             }
