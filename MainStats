@@ -1,3 +1,4 @@
+
 { 
     "Shadow Chica": {
         "Type": "AOE",
@@ -16473,14 +16474,67 @@
                 "ShinyWither": 1.3,
                 "WitherTime": 1
 
-  }
-         ]
+     }
+        ]
     },
 "Hallow Knight": {
         "Type": "AOE",
         "Image": "rbxassetid://77261907750493",
-        "Rarity": "Nightmare",
-        "PlacePrice": 23500,
+        "Rarity": "Apex",
+        "PlacePrice": 123500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 4005,
+                "Cooldown": 0.2,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 0.1,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 3500,
+                "Range": 30,
+                "Damage": 6000,
+                "Cooldown": 0.1,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 4500,
+                "Range": 38,
+                "Damage": 7500,
+                "Cooldown": 0.1,
+                "Wither": 5,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+      }
+  ]
+},
+"Frosted Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://94198485560370",
+        "Rarity": "Apex",
+        "PlacePrice": 75000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
@@ -16494,7 +16548,113 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 4005,
+                "Damage": 45000,
+                "Cooldown": 0.5,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 0.5,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 3500,
+                "Range": 30,
+                "Damage": 60000,
+                "Cooldown": 0.5,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 4500,
+                "Range": 38,
+                "Damage": 130000,
+                "Cooldown": 0.5,
+                "Wither": 5,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+         }
+     ]
+},
+"Frosted Nightmare": {
+        "Type": "AOE",
+        "Image": "rbxassetid://99602912238336",
+        "Rarity": "Apex",
+        "PlacePrice": 35000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3450,
+                "Cooldown": 0.2,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 30,
+                "Damage": 3550,
+                "Cooldown": 0.1,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 3500,
+                "Range": 30,
+                "Damage": 4550,
+                "Cooldown": 0.1,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 4500,
+                "Range": 38,
+                "Damage": 5500,
+                "Cooldown": 0.1,
+                "Wither": 5,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+        }
+    ]
+},
+"Frosty Cadet": {
+        "Type": "AOE",
+        "Image": "rbxassetid://87759926741556",
+        "Rarity": "Nightmare",
+        "PlacePrice": 13500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 4500,
                 "Cooldown": 0.5,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
@@ -16521,11 +16681,12 @@
             {
                 "Price": 4500,
                 "Range": 38,
-                "Damage": 7500,
+                "Damage": 7000,
                 "Cooldown": 0.5,
                 "Wither": 5,
                 "ShinyWither": 1.3,
-                "WitherTime": 1          }
+                "WitherTime": 1
+             }
         ]
     }
 }
