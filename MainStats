@@ -1,5 +1,44 @@
 
 { 
+    "Jolly Ice Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://80093354922843",
+        "Rarity": "Vonour",
+        "PlacePrice": 138000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 6000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 7000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 8500,
+                "Cooldown": 0.05
+            }
+        ]
+   },
     "Shadow Chica": {
         "Type": "AOE",
         "Image": "rbxassetid://140049222315013",
