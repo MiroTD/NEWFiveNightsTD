@@ -78,6 +78,85 @@
             }
         ]
    },
+    "Elf Gregory": {
+        "Type": "AOE",
+        "Image": "rbxassetid://113235204823483",
+        "Rarity": "Nightmare",
+        "PlacePrice": 70000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 5500,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 6000,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 6500,
+                "Cooldown": 0.1
+            }
+        ]
+   },
+    "Santa Freddy": {
+        "Type": "Passive",
+        "Image": "rbxassetid://118422900646708",
+        "Rarity": "Jolly",
+        "PlacePrice": 230000,
+        "Message": "Santa is coming  to town!!!!1",
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 15000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 16500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 18000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 19500,
+                "Cooldown": 0.1
+            }
+        ]
+   },
   "Withered SpringBonnie": {
         "Type": "Single Spread",
         "Image": "rbxassetid://115683024181819",
