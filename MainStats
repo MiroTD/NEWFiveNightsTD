@@ -78,6 +78,45 @@
             }
         ]
    },
+    "Frostzilla": {
+        "Type": "AOE",
+        "Image": "rbxassetid://98561328325524",
+        "Rarity": "Apex",
+        "PlacePrice": 96500,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 200000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 250000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 300000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 400000,
+                "Cooldown": 2
+            }
+        ]
+   },
     "Elf Gregory": {
         "Type": "AOE",
         "Image": "rbxassetid://113235204823483",
