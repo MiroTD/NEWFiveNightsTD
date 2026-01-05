@@ -523,25 +523,25 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 40000,
+                "Damage": 40,
                 "Cooldown": 1
             },
             {
                 "Price": 500,
                 "Range": 12,
-                "Damage": 5000000000,
+                "Damage": 50,
                 "Cooldown": 1
             },
             {
                 "Price": 750,
                 "Range": 14,
-                "Damage": 6000000000000,
+                "Damage": 60,
                 "Cooldown": 1
             },
             {
                 "Price": 1250,
                 "Range": 15,
-                "Damage": 6000000000000,
+                "Damage": 60,
                 "Cooldown": 0.75
             }
         ]
@@ -2077,7 +2077,7 @@
     },
     "SpringTrap": {
         "Type": "Pierce",
-        "Image": "rbxassetid://18356146630",
+        "Image": "rbxassetid://114236225697966",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Max": 1,
