@@ -509,7 +509,7 @@
     },
     "Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://89925249660312",
         "Rarity": "Uncommon",
         "PlacePrice": 1,
         "Max": 8,
@@ -548,7 +548,7 @@
     },
     "Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16620303027",
+        "Image": "rbxassetid://108231225322877",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
@@ -625,8 +625,8 @@
      },
     "Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://16620268084",
-        "Rarity": "Mythic",
+        "Image": "rbxassetid://132275351050605",
+        "Rarity": "Uncommon",
         "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
@@ -664,7 +664,7 @@
         },
         "Withered Chica": {
             "Type": "Single",
-            "Image": "rbxassetid://16632209265",
+            "Image": "rbxassetid://75748936875023",
             "Rarity": "Rare",
             "PlacePrice": 800,
             "Max": 2,
@@ -741,7 +741,7 @@
      },      
     "Withered Freddy": {
         "Type": "Continuous",
-        "Image": "rbxassetid://16632239120",
+        "Image": "rbxassetid://75748936875023",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Max": 3,
@@ -972,8 +972,8 @@
     },
     "Mangle": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16781119726",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://80098616982424",
+        "Rarity": "Nightmare",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
@@ -986,32 +986,32 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
+                "Damage": 20000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 20000,
                 "Range": 17,
-                "Damage": 300,
+                "Damage": 30000,
                 "Cooldown": 1.25
             },
             {
                 "Price": 25000,
                 "Range": 20,
-                "Damage": 400,
+                "Damage": 40000,
                 "Cooldown": 1
             },
             {
                 "Price": 30000,
                 "Range": 22,
-                "Damage": 500,
+                "Damage": 50000,
                 "Cooldown": 0.75
             }
         ]
     },
     "Shadow Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://17270065249",
+        "Image": "rbxassetid://82484270991649",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 2,
@@ -1088,7 +1088,7 @@
     },
     "Golden Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://17629034232",
+        "Image": "rbxassetid://135226651120641",
         "Rarity": "Secret",
         "PlacePrice": 12500,
         "Max": 2,
@@ -1166,7 +1166,7 @@
     },
     "Withered Golden Freddy": {
         "Type": "Single Wither",
-        "Image": "rbxassetid://16781122207",
+        "Image": "rbxassetid://121140117517517",
         "Rarity": "Secret",
         "PlacePrice": 4000,
         "Max": 4,
@@ -2077,7 +2077,7 @@
     },
     "SpringTrap": {
         "Type": "Pierce",
-        "Image": "rbxassetid://114236225697966",
+        "Image": "rbxassetid://136588537423470",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Max": 1,
@@ -2153,7 +2153,7 @@
     },
     "Phantom Foxy": {
         "Type": "Single",
-        "Image": "rbxassetid://18356274992",
+        "Image": "rbxassetid://108231604319927",
         "Rarity": "Rare",
         "PlacePrice": 900,
         "Max": 4,
@@ -2229,7 +2229,7 @@
     },
     "Phantom Freddy": {
         "Type": "Continuous",
-        "Image": "rbxassetid://18363498934",
+        "Image": "rbxassetid://131795610815951",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 3,
@@ -2386,7 +2386,7 @@
     },
     "Phantom Mangle": {
         "Type": "Continuous Wither",
-        "Image": "rbxassetid://18363533024",
+        "Image": "rbxassetid://106993887501102",
         "Rarity": "Nightmare",
         "PlacePrice": 35000,
         "Max": 3,
@@ -2475,7 +2475,7 @@
     },
     "Amalgam": {
         "Type": "Continuous Slow",
-        "Image": "rbxassetid://18363541545",
+        "Image": "rbxassetid://84458111689925",
         "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
