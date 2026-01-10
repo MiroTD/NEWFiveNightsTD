@@ -39,12 +39,12 @@
             }
         ]
    },
-    "Shadow Chica": {
+    "Krampus Guy": {
         "Type": "AOE",
-        "Image": "rbxassetid://140049222315013",
+        "Image": "rbxassetid://140172700188371",
         "Rarity": "Nightmare",
-        "PlacePrice": 30000,
-        "Max": 2,
+        "PlacePrice": 1075,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -55,25 +55,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 500,
+                "Damage": 50,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 22,
-                "Damage": 550,
+                "Damage": 55,
                 "Cooldown": 0.05
             },
             {
                 "Price": 44400,
                 "Range": 30,
-                "Damage": 600,
+                "Damage": 60,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
                 "Range": 35,
-                "Damage": 650,
+                "Damage": 65,
                 "Cooldown": 0.05
             }
         ]
