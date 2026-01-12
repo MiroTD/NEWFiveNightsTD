@@ -507,12 +507,12 @@
             }
         ]
     },
-    "Nothing": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://85175655670996",
-        "Rarity": "Nightmare",
+    "Lava Mineera": {
+        "Type": "AOE",
+        "Image": "rbxassetid://131627165963146",
+        "Rarity": "Golden Zebra",
         "PlacePrice": 80000,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -523,26 +523,26 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 70000,
-                "Cooldown": 4
+                "Damage": 7000,
+                "Cooldown": 0.1
             },
             {
                 "Price": 35000,
                 "Range": 28,
-                "Damage": 82000,
-                "Cooldown": 3.5
+                "Damage": 8200,
+                "Cooldown": 0.1
             },
             {
                 "Price": 50000,
                 "Range": 32,
-                "Damage": 94000,
-                "Cooldown": 3
+                "Damage": 9400,
+                "Cooldown": 0.1
             },
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 160000,
-                "Cooldown": 2.5
+                "Damage": 16000,
+                "Cooldown": 0.1
             }
         ]
     },
