@@ -78,6 +78,84 @@
             }
         ]
    },
+    "Lava Ballora": {
+        "Type": "AOE",
+        "Image": "rbxassetid://139066066958726",
+        "Rarity": "Apex",
+        "PlacePrice": 760,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 3000,
+                "Range": 22,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 4440,
+                "Range": 30,
+                "Damage": 700,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 35,
+                "Damage": 850,
+                "Cooldown": 1
+            }
+        ]
+   },
+    "Demented Lefty": {
+        "Type": "AOE",
+        "Image": "rbxassetid://80715103247758",
+        "Rarity": "Golden Zebra",
+        "PlacePrice": 76000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 60000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 70000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 85000,
+                "Cooldown": 1
+            }
+        ]
+   },
     "Frostzilla": {
         "Type": "AOE",
         "Image": "rbxassetid://98561328325524",
