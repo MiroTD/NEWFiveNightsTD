@@ -39,6 +39,201 @@
             }
         ]
    },
+    "Demented Foxy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://102036313315742",
+        "Rarity": "Apex",
+        "PlacePrice": 76000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 6000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 7000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 8500,
+                "Cooldown": 0.05
+            }
+        ]
+   },
+    "Lava Dude": {
+        "Type": "AOE",
+        "Image": "rbxassetid://77076792234860",
+        "Rarity": "Nightmare",
+        "PlacePrice": 13800,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 6000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 7000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 8500,
+                "Cooldown": 0.1
+            }
+        ]
+   },
+    "Lava OMC": {
+        "Type": "AOE",
+        "Image": "rbxassetid://134613051620097",
+        "Rarity": "Secret",
+        "PlacePrice": 11340,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1750,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 3000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 4500,
+                "Cooldown": 0.1
+            }
+        ]
+   },
+    "Lava Apostle": {
+        "Type": "AOE",
+        "Image": "rbxassetid://98686558749888",
+        "Rarity": "Nightmare",
+        "PlacePrice": 250000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 15000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 16000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 17000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 18500,
+                "Cooldown": 0.05
+            }
+        ]
+   },
+    "Demented Endo": {
+        "Type": "AOE",
+        "Image": "",
+        "Rarity": "Mythic",
+        "PlacePrice": 1350,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 3000,
+                "Range": 22,
+                "Damage": 600,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 4440,
+                "Range": 30,
+                "Damage": 700,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 5000,
+                "Range": 35,
+                "Damage": 850,
+                "Cooldown": 0.1
+            }
+        ]
+   },
     "Krampus Guy": {
         "Type": "AOE",
         "Image": "rbxassetid://140172700188371",
