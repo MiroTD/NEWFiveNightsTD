@@ -39,6 +39,84 @@
             }
         ]
    },
+    "The Hunter": {
+        "Type": "AOE",
+        "Image": "rbxassetid://80093354922843",
+        "Rarity": "Apex",
+        "PlacePrice": 138000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50039349349834983894983938440,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 600340943094342909349343094309434090,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 70039039342993409309340939393939393993093493949309340,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 850094309340909090909393393439343933493093094090940994999999999990,
+                "Cooldown": 0.05
+            }
+        ]
+   },
+    "KingdomTrap": {
+        "Type": "AOE",
+        "Image": "rbxassetid://118263833593477",
+        "Rarity": "Apex",
+        "PlacePrice": 156750,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 60000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 70000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 85000,
+                "Cooldown": 0.05
+            }
+        ]
+   },
     "Demented Foxy": {
         "Type": "AOE",
         "Image": "rbxassetid://102036313315742",
