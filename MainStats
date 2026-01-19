@@ -781,11 +781,11 @@
              }
        ]
  },
- "Unreal Engine Missing Script": {
+ "Corrupted Soul Freddy": {
         "Type": "Continuous AOE",
-        "Image": "rbxassetid://135631252087027",
-        "Rarity": "Nightmare",
-        "PlacePrice": 5000,
+        "Image": "rbxassetid://114654343266757",
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -796,26 +796,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 1400,
-                "Cooldown": 0.05
+                "Damage": 140000,
+                "Cooldown": 3
             },
             {
                 "Price": 10000,
                 "Range": 15,
-                "Damage": 1800,
-                "Cooldown": 0.05
+                "Damage": 180000,
+                "Cooldown": 3
             },
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage": 2500,
-                "Cooldown": 0.05
+                "Damage": 250000,
+                "Cooldown": 3
             },
             {
                 "Price": 25000,
                 "Range": 20,
-                "Damage": 3000,
-                "Cooldown": 0.05
+                "Damage": 300000,
+                "Cooldown": 3
             }
         ]
   },
