@@ -586,6 +586,45 @@
             }
         ]
    },
+"Gilded Ennard": {
+        "Type": "Single Spread",
+        "Image": "rbxassetid://135458319102664",
+        "Rarity": "Apex",
+        "PlacePrice": 250000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100000,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 250000,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 0,
+                "Range": 45,
+                "Damage": 335000,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 350000,
+                "Cooldown": 0.25
+            }
+        ]
+   },
   "Withered SpringBonnie": {
         "Type": "Single Spread",
         "Image": "rbxassetid://115683024181819",
