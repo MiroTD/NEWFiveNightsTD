@@ -608,19 +608,19 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 250000,
+                "Damage": 2450000,
                 "Cooldown": 0.35
             },
             {
                 "Price": 0,
                 "Range": 45,
-                "Damage": 335000,
+                "Damage": 535000,
                 "Cooldown": 0.3
             },
             {
                 "Price": 0,
                 "Range": 50,
-                "Damage": 350000,
+                "Damage": 750000,
                 "Cooldown": 0.25
             }
         ]
