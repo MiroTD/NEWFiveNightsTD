@@ -78,6 +78,162 @@
             }
         ]
    },
+    "Error 404 Chica": {
+        "Type": "AOE",
+        "Image": "rbxassetid://125560307478240",
+        "Rarity": "Epic",
+        "PlacePrice": 1575,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 300,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 444,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 500,
+                "Range": 35,
+                "Damage": 750,
+                "Cooldown": 0.25
+            }
+        ]
+   },
+    "Hacked Endo Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://109914820347034",
+        "Rarity": "Nightmare",
+        "PlacePrice": 17500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 600,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 750,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 1500,
+                "Cooldown": 0.05
+            }
+        ]
+   },
+    "Shadow Afton": {
+        "Type": "AOE",
+        "Image": "rbxassetid://136793326372925",
+        "Rarity": "Apex",
+        "PlacePrice": 135000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 67000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 105000,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 150000,
+                "Cooldown": 1.5
+            }
+        ]
+   },
+    "Shadow Blob": {
+        "Type": "AOE",
+        "Image": "rbxassetid://107925471405472",
+        "Rarity": "Vonour",
+        "PlacePrice": 350000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 60000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 70000,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 80000,
+                "Cooldown": 0.05
+            }
+        ]
+   },
     "KingdomTrap": {
         "Type": "AOE",
         "Image": "rbxassetid://118263833593477",
