@@ -172,25 +172,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 50000,
+                "Damage": 30000,
                 "Cooldown": 3
             },
             {
                 "Price": 30000,
                 "Range": 22,
-                "Damage": 67000,
+                "Damage": 47000,
                 "Cooldown": 2
             },
             {
                 "Price": 44400,
                 "Range": 30,
-                "Damage": 105000,
+                "Damage": 67000,
                 "Cooldown": 1.75
             },
             {
                 "Price": 50000,
                 "Range": 35,
-                "Damage": 150000,
+                "Damage": 71000,
                 "Cooldown": 1.5
             }
         ]
@@ -199,7 +199,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://107925471405472",
         "Rarity": "Vonour",
-        "PlacePrice": 350000,
+        "PlacePrice": 150000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -212,25 +212,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 50000,
-                "Cooldown": 0.05
+                "Cooldown": 0.5
             },
             {
                 "Price": 30000,
                 "Range": 22,
                 "Damage": 60000,
-                "Cooldown": 0.05
+                "Cooldown": 0.5
             },
             {
                 "Price": 44400,
                 "Range": 30,
                 "Damage": 70000,
-                "Cooldown": 0.05
+                "Cooldown": 0.5
             },
             {
                 "Price": 50000,
                 "Range": 35,
                 "Damage": 80000,
-                "Cooldown": 0.05
+                "Cooldown": 0.5
             }
         ]
    },
