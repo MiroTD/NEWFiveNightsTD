@@ -117,6 +117,45 @@
             }
         ]
    },
+"Ruby Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://71845141598999",
+        "Rarity": "Secret",
+        "PlacePrice": 7560,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 300,
+                "Range": 22,
+                "Damage": 2500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 444,
+                "Range": 30,
+                "Damage": 5000,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 500,
+                "Range": 35,
+                "Damage": 7500,
+                "Cooldown": 0.25
+            }
+        ]
+   },
 "Kronos Endo Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://79311107355323",
