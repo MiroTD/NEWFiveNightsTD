@@ -117,6 +117,45 @@
             }
         ]
    },
+    "Michael's Love": {
+        "Type": "AOE",
+        "Image": "rbxassetid://137847373910856",
+        "Rarity": "Vonour",
+        "PlacePrice": 127500,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 210000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 295000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 320000,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 550000,
+                "Cooldown": 0.25
+            }
+        ]
+   },
     "Error 404 Chica": {
         "Type": "AOE",
         "Image": "rbxassetid://125560307478240",
@@ -875,25 +914,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100000,
+                "Damage": 1100000,
                 "Cooldown": 0.3
             },
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 2450000,
+                "Damage": 12450000,
                 "Cooldown": 0.35
             },
             {
                 "Price": 0,
                 "Range": 45,
-                "Damage": 535000,
+                "Damage": 1535000,
                 "Cooldown": 0.3
             },
             {
                 "Price": 0,
                 "Range": 50,
-                "Damage": 750000,
+                "Damage": 1750000,
                 "Cooldown": 0.25
             }
         ]
