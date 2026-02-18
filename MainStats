@@ -78,6 +78,45 @@
             }
         ]
    },
+    "WizardTrap": {
+        "Type": "AOE",
+        "Image": "rbxassetid://121913578207759",
+        "Rarity": "Vonour",
+        "PlacePrice": 76000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 56000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 72000,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 87000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 98800,
+                "Cooldown": 0.7
+            }
+        ]
+   },
     "Valentines Ennard": {
         "Type": "AOE",
         "Image": "rbxassetid://107904961228544",
