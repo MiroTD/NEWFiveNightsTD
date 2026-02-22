@@ -117,6 +117,201 @@
             }
         ]
    },
+    "Ruby Toy Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://121729799506297",
+        "Rarity": "Mythic",
+        "PlacePrice": 3575,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 5000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 7500,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 8000,
+                "Cooldown": 0.5
+            }
+        ]
+   },
+    "Ruby Fan": {
+        "Type": "AOE",
+        "Image": "rbxassetid://101510085904919",
+        "Rarity": "Secret",
+        "PlacePrice": 17500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 12500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 15000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 20000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 27500,
+                "Cooldown": 0.5
+            }
+        ]
+   },
+    "Ruby Spirit Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://86240109554298",
+        "Rarity": "Nightmare",
+        "PlacePrice": 45000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 75000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 80000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 95000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 100000,
+                "Cooldown": 0.5
+            }
+        ]
+   },
+    "Boundful Ruby": {
+        "Type": "AOE",
+        "Image": "rbxassetid://84597132993242",
+        "Rarity": "Apex",
+        "PlacePrice": 129000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 350000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 500000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 750000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 800000,
+                "Cooldown": 0.5
+            }
+        ]
+   },
+    "Ruby Endoxus": {
+        "Type": "AOE",
+        "Image": "rbxassetid://111742450077226",
+        "Rarity": "Vonour",
+        "PlacePrice": 255000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1200000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 5000000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 44400,
+                "Range": 30,
+                "Damage": 7500000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 8000000,
+                "Cooldown": 0.5
+            }
+        ]
+   },
     "Valentines Ennard": {
         "Type": "AOE",
         "Image": "rbxassetid://107904961228544",
