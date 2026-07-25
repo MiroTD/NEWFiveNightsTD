@@ -1,5 +1,161 @@
 
 { 
+    "Lamine Foxy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://114199507350083",
+        "Rarity": "Secret",
+        "PlacePrice": 5500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 1.15
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 3500,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 2500,
+                "Range": 40,
+                "Damage": 4000,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 5000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 1.2
+            }
+        ]
+   },
+    "Keyne Foxy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://70381686077221",
+        "Rarity": "Mythic",
+        "PlacePrice": 2500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 100,
+                "Range": 22,
+                "Damage": 350,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 250,
+                "Range": 40,
+                "Damage": 400,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 500,
+                "Range": 35,
+                "Damage": 500,
+                "Cooldown": 0.5
+            }
+        ]
+   },
+    "Lionel Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://94565087872085",
+        "Rarity": "Rare",
+        "PlacePrice": 250,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 20,
+                "Cooldown": 1
+            },
+            {
+                "Price": 100,
+                "Range": 22,
+                "Damage": 35,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 250,
+                "Range": 40,
+                "Damage": 40,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 500,
+                "Range": 35,
+                "Damage": 50,
+                "Cooldown": 0.5
+            }
+        ]
+   },
+    "Digeo Chica": {
+        "Type": "AOE",
+        "Image": "rbxassetid://98090488088913",
+        "Rarity": "Epic",
+        "PlacePrice": 350,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 100,
+                "Range": 22,
+                "Damage": 95,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 250,
+                "Range": 30,
+                "Damage": 100,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 500,
+                "Range": 35,
+                "Damage": 150,
+                "Cooldown": 0.3
+            }
+        ]
+   },
     "Jolly Ice Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://80093354922843",
