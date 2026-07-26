@@ -1,5 +1,44 @@
 
 { 
+    "Algerian Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://76503299831284",
+        "Rarity": "Secret",
+        "PlacePrice": 8000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3250,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 3750,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 40,
+                "Damage": 4750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 6500,
+                "Cooldown": 0.75
+            }
+        ]
+   },
     "Lamine Foxy": {
         "Type": "AOE",
         "Image": "rbxassetid://114199507350083",
