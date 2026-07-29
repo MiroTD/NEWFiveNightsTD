@@ -1,5 +1,44 @@
 
 { 
+    "CaboTrap": {
+        "Type": "AOE",
+        "Image": "rbxassetid://105309424803311",
+        "Rarity": "Nightmare",
+        "PlacePrice": 16000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 6000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 7750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 40,
+                "Damage": 8750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 9500,
+                "Cooldown": 0.75
+            }
+        ]
+   },
     "Algerian Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://76503299831284",
