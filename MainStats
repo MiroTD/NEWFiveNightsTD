@@ -1,5 +1,44 @@
 
 { 
+    "PlayerModel": {
+        "Type": "AOE",
+        "Image": "rbxassetid://7536079553",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 4750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 40,
+                "Damage": 5750,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 6500,
+                "Cooldown": 0.75
+            }
+        ]
+   },
     "CaboTrap": {
         "Type": "AOE",
         "Image": "rbxassetid://105309424803311",
