@@ -1,5 +1,45 @@
 
 { 
+
+"Octo Mangle": {
+        "Type": "AOE",
+        "Image": "rbxassetid://111879754524654",
+        "Rarity": "Nightmare",
+        "PlacePrice": 14000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 6000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 8500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 40,
+                "Damage": 10000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 12500,
+                "Cooldown": 0.75
+            }
+        ]
+   },
     "PlayerModel": {
         "Type": "AOE",
         "Image": "rbxassetid://7536079553",
